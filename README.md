@@ -18,7 +18,7 @@ r option) any later version. See [LICENSE](http://www.gnu.org/licenses/gpl-3.0.e
 
 ## Quick Start
 
-[Quick start instructions for running PTWAS](https://xqwen.github.com/ptwas/)
+[Quick start instructions for running PTWAS](https://xqwen.github.com/ptwas/index.html)
 
 ## Repository directories
 
